@@ -6,7 +6,7 @@ In this assignment you will be implementing the C4.5 decision tree algorithm and
 
 First get the assignment by running:
     
-    git clone https://github.com/pjreddie/C4.5-Homework
+    git clone https://github.com/dhlee4/C4.5-Homework
     cd C4.5-Homework
 
 You will be modifying the file `tree.py`. Tests for your program are in `test.py`. To test your implementation, run:
@@ -93,7 +93,7 @@ After the homework deadline we will run all of your submissions on a test datase
 
 Submit your modified `tree.py` file to the class dropbox here:
 
-[https://catalyst.uw.edu/collectit/assignment/farhadi/37186/149544](https://catalyst.uw.edu/collectit/assignment/farhadi/37186/149544)
+[https://catalyst.uw.edu/collectit/assignment/summary/dhlee4/40217/160249](https://catalyst.uw.edu/collectit/assignment/summary/dhlee4/40217/160249)
 
 
 
