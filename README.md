@@ -94,6 +94,3 @@ After the homework deadline we will run all of your submissions on a test datase
 Submit your modified `tree.py` file to the class dropbox here:
 
 [https://catalyst.uw.edu/collectit/assignment/dhlee4/40217/160249](https://catalyst.uw.edu/collectit/assignment/dhlee4/40217/160249)
-
-
-
